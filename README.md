@@ -43,7 +43,7 @@ The VGG19 model achieved the best performance with:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/facemask-detection.git
+   git clone https://github.com/yourusername/facemask-detection.git](https://github.com/Mounir62/Facemask_Detection_Model.git
 Change into the project directory:
 bash
 Copy code
